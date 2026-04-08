@@ -2,21 +2,8 @@
 
 <div align="center" valign="top"><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=1500&pause=1000&multiline=true&width=700&height=70&lines=My+name+is+Eduardo%2C+I+am+a+Cybersecurity+student.;Meu+nome+%C3%A9+Eduardo+sou+Estudante+de+Cybersecurity" alt="Typing SVG" /></a>
+<div> 
 
-</div><br>
-
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousaon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
-
-</p>
-
-
-
-    
 <div align="center" valign="top"><br>
       <img align="center" alt="sousa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="sousa-kali" height="30" width="40" src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000">
@@ -28,9 +15,17 @@
       <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
     </div><br>
 
+<div> 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sousaon&theme=darcula" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sousaon&theme=darcula" width="48%" />
+</p>
+
 <div align="center" valign="top"><br>
       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sousaon&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
 </div><br>
+    
+
     
 <div align="center">
       <a href="https://www.instagram.com/_sousaedu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
