@@ -20,8 +20,10 @@
       <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
       <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
     </div><br>
+
+<div align="center" valign="top"><br>
       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sousaon&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
-    </div><br>
+</div><br>
     
 <div align="center">
       <a href="https://www.youtube.com/farinhaytb" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
