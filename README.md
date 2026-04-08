@@ -2,7 +2,11 @@
 
 <div align="center" valign="top"><br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&duration=1500&pause=1000&multiline=true&width=700&lines=My+name+is+Eduardo%2C+I+am+a+Cybersecurity+student.;Meu+nome+%C3%A9+Eduardo+sou+Estudante+de+Cybersecurity" alt="Typing SVG" /></a>
+  
 </div><br>
+
+
+
   
     ## 
     - 👋 Olá, Sou o @sousaon
